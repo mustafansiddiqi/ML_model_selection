@@ -1,5 +1,5 @@
 # ML model selection
-This repository contains a Python function I built while taking Machine Learning at the University of Chicago. The goal was to create a single, flexible utility that can:
+This repository contains a Python function I built while taking Machine Learning at the University of Chicago. The goal was to create a single, flexible function that can:
 
 Detect whether a prediction task is classification or regression
 
@@ -15,4 +15,4 @@ Report the confusion matrix for classification tasks
 
 Output a clean summary table of all model results
 
-This project is intended as a learning tool, helping students see how different algorithms behave side-by-side.
+This project was intended as a learning tool to help me see how models run and perform side by side.
