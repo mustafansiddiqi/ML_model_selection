@@ -1,4 +1,4 @@
-# ML_model_selection
+# ML model selection
 This repository contains a Python function I built while taking Machine Learning at the University of Chicago. The goal was to create a single, flexible utility that can:
 
 Detect whether a prediction task is classification or regression
